@@ -1,1 +1,1 @@
-Hello, welcome to Strong Hire Labs!
+Hello, welcome to StrongHire Labs!
