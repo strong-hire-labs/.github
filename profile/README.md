@@ -1,1 +1,1 @@
-Hello, welcome to StrongHire Labs!
+Hello, welcome to [StrongHire Labs](https://www.stronghirelabs.com.au/)!
